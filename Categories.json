@@ -12,10 +12,30 @@
         "icon": "𐄇",
         "description": "DESCRIPTION HOLDER",
         "children": [
+          {
+        "id": "podstawy_ai21",
+        "title": "Podstawy AI",
+        "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
+        "children": [
           { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
           { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
           { "id": "3_podstawy_ai", "title": "3.Podstawy AI", "url": "URL1" },
           { "id": "genai", "title": "GenAI", "url": "URL3" }
+        ]
+      },
+          {
+        "id": "podstawy_ai22",
+        "title": "Podstawy AI",
+        "icon": "𐄇",
+        "description": "DESCRIPTION HOLDER",
+        "children": [
+          { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
+          { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
+          { "id": "3_podstawy_ai", "title": "3.Podstawy AI", "url": "URL1" },
+          { "id": "genai", "title": "GenAI", "url": "URL3" }
+        ]
+      }
         ]
       },
       {
