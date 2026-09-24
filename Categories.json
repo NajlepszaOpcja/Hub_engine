@@ -1,82 +1,52 @@
 [
   {
-    "id": "ai",
-    "title": "Ai",
-    "icon": "🜉",
+    "id": "druk_3d",
+    "title": "Druk 3D",
+    "icon": "🝘",
     "sub_icon": "Ⳟ",
-    "description": "SIEMANKO AI",
+    "description": "Prototypy, krótkie serie, części zamienne",
     "children": [
       {
-        "id": "podstawy_ai",
-        "title": "Podstawy AI",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          {
-        "id": "podstawy_ai21",
-        "title": "Podstawy AI21",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
-          { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
-          { "id": "3_podstawy_ai", "title": "3.Podstawy AI", "url": "URL1" },
-          { "id": "genai", "title": "GenAI", "url": "URL3" }
-        ]
-      },
-          {
-        "id": "podstawy_ai22",
-        "title": "Podstawy AI22",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_podstawy_ai", "title": "1.Podstawy AI", "url": "URL1" },
-          { "id": "2_podstawy_ai", "title": "2.Podstawy AI", "url": "URL1" },
-          { "id": "3_podstawy_ai", "title": "3.Podstawy AI", "url": "URL1" },
-          { "id": "genai", "title": "GenAI", "url": "URL3" }
-        ]
-      }
-        ]
+        "id": "druk_3d_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/druk3d/",
+        "description": "Czym jest druk 3D u nas"
       },
       {
-        "id": "workflow_i_demo_ai",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_ai", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_ai", "title": "Demo", "url": "URL5" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "app",
-    "title": "App",
-    "icon": "🜋",
-    "sub_icon": "Ⳟ",
-    "description": "DOWIEDZ SIE O APPKACH",
-    "children": [
-      {
-        "id": "podstawy_app",
-        "title": "Podstawy APP",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_app", "title": "1", "url": "URL1" },
-          { "id": "2_app", "title": "2", "url": "URL1" },
-          { "id": "3_app", "title": "3", "url": "URL1" }
-        ]
+        "id": "druk_3d_kalkulator",
+        "title": "Kalkulator wyceny",
+        "url": "https://3d.najlepszaopcja.com/kalkulator",
+        "description": "Wgraj plik i poznaj cenę od razu"
       },
       {
-        "id": "workflow_i_demo_app",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_app", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_app", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "druk_3d_uslugi",
+        "title": "Jak zamówić",
+        "url": "https://najlepszaopcja.com/druk3d/uslugi-druk3d/",
+        "description": "Trzy ścieżki zamówienia wydruku"
+      },
+      {
+        "id": "druk_3d_design",
+        "title": "Design",
+        "url": "https://najlepszaopcja.com/druk3d/design/",
+        "description": "Model 3D ze szkicu lub zdjęcia"
+      },
+      {
+        "id": "druk_3d_skan",
+        "title": "Skan 3D",
+        "url": "https://najlepszaopcja.com/druk3d/skan-3d/",
+        "description": "Digitalizacja obiektów"
+      },
+      {
+        "id": "druk_3d_bw_podstawy",
+        "title": "Baza wiedzy: podstawy",
+        "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/",
+        "description": "Jak zacząć z drukiem 3D"
+      },
+      {
+        "id": "druk_3d_bw_materialy",
+        "title": "Baza wiedzy: materiały",
+        "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-materialy/",
+        "description": "Biblioteka materiałów FDM"
       }
     ]
   },
@@ -85,59 +55,109 @@
     "title": "Grafika 3D",
     "icon": "🝕",
     "sub_icon": "Ⳟ",
-    "description": "CZY D?",
+    "description": "Modele, wizualizacje i 3D w przeglądarce",
     "children": [
       {
-        "id": "podstawy_3d",
-        "title": "Podstawy 3D",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_3d", "title": "1", "url": "URL1" },
-          { "id": "2_3d", "title": "2", "url": "URL1" },
-          { "id": "3_3d", "title": "3", "url": "URL1" }
-        ]
+        "id": "grafika_3d_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/main-3d/",
+        "description": "Modele, wizualizacje, animacje"
       },
       {
-        "id": "workflow_i_demo_3d",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_3d", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_3d", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "grafika_3d_glass",
+        "title": "Konfigurator szkła",
+        "url": "https://najlepszaopcja.com/portfolio/3d-online-glass/",
+        "description": "Demo 3D online (najlepiej na PC)"
+      },
+      {
+        "id": "grafika_3d_creo",
+        "title": "Biuro 3D",
+        "url": "https://najlepszaopcja.com/portfolio/3d-online-creo/",
+        "description": "Demo 3D online (najlepiej na PC)"
+      },
+      {
+        "id": "grafika_3d_classroom",
+        "title": "Pracownia 3D",
+        "url": "https://najlepszaopcja.com/portfolio/3d-online-classroom/",
+        "description": "Demo 3D online (najlepiej na PC)"
       }
     ]
   },
   {
-    "id": "druk_3d",
-    "title": "Druk 3D",
-    "icon": "🝘",
+    "id": "app",
+    "title": "Aplikacje",
+    "icon": "🜋",
     "sub_icon": "Ⳟ",
-    "description": "WYDRUKUJ SE",
+    "description": "Aplikacje webowe i 3D bez instalacji",
     "children": [
       {
-        "id": "podstawy_druk3d",
-        "title": "Podstawy DRUK3D",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "strona_glowna_druk3d", "title": "Strona główna", "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/" },
-          { "id": "technologie_druk3d", "title": "Technologie", "url": "URL1" },
-          { "id": "materialy_druk3d", "title": "Materiały", "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-materialy/" },
-          { "id": "proces_druk3d", "title": "Proces", "url": "URL3" }
-        ]
+        "id": "app_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/app/",
+        "description": "Co budujemy"
       },
       {
-        "id": "workflow_i_demo_druk3d",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_druk3d", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_druk3d", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "app_web",
+        "title": "Web App",
+        "url": "https://najlepszaopcja.com/app/web-app/",
+        "description": "Aplikacje w przeglądarce"
+      },
+      {
+        "id": "app_web3d",
+        "title": "Web3D App",
+        "url": "https://najlepszaopcja.com/app/web3d-app/",
+        "description": "Produkt w 3D do obracania i konfiguracji"
+      },
+      {
+        "id": "app_uiux",
+        "title": "UI/UX",
+        "url": "https://najlepszaopcja.com/app/ui-ux/",
+        "description": "Projektowanie interfejsów"
+      },
+      {
+        "id": "app_hanzi",
+        "title": "中文汉字 APP",
+        "url": "https://najlepszaopcja.com/app/demo/%e4%b8%ad%e6%96%87%e6%b1%89%e5%ad%97/",
+        "description": "Nauka znaków, HSK 1–7"
+      },
+      {
+        "id": "app_gushi",
+        "title": "中文故事 APP",
+        "url": "https://najlepszaopcja.com/app/demo/%e4%b8%ad%e6%96%87%e6%95%85%e4%ba%8b/",
+        "description": "Nauka słówek przez historyjki"
+      }
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "AI",
+    "icon": "🜉",
+    "sub_icon": "Ⳟ",
+    "description": "Sztuczna inteligencja w praktyce",
+    "children": [
+      {
+        "id": "ai_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/ai/",
+        "description": "AI tam, gdzie daje realne korzyści"
+      },
+      {
+        "id": "ai_genai",
+        "title": "GenAI",
+        "url": "https://najlepszaopcja.com/ai/genai/",
+        "description": "Grafika, treści i modele 3D z AI"
+      },
+      {
+        "id": "ai_workflow",
+        "title": "Workflow",
+        "url": "https://najlepszaopcja.com/ai/workflow/",
+        "description": "Automatyzacja powtarzalnych zadań"
+      },
+      {
+        "id": "ai_demo",
+        "title": "Demo",
+        "url": "https://najlepszaopcja.com/ai/aidemo/",
+        "description": "Przykłady zastosowań"
       }
     ]
   },
@@ -146,28 +166,25 @@
     "title": "Drony",
     "icon": "🜁",
     "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "Inspekcje, ortofotomapy, modele 3D z powietrza",
     "children": [
       {
-        "id": "podstawy_drony",
-        "title": "Podstawy DRONY",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_drony", "title": "1", "url": "URL1" },
-          { "id": "2_drony", "title": "2", "url": "URL1" },
-          { "id": "3_drony", "title": "3", "url": "URL1" }
-        ]
+        "id": "drony_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/drony/",
+        "description": "Co robimy dronami"
       },
       {
-        "id": "workflow_i_demo_drony",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_drony", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_drony", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "drony_uslugi",
+        "title": "Usługi UAV",
+        "url": "https://najlepszaopcja.com/drony/uslugi-uav/",
+        "description": "Digitalizacja i inwentaryzacja"
+      },
+      {
+        "id": "drony_3d",
+        "title": "3D z drona",
+        "url": "https://najlepszaopcja.com/drony/dron-3d/",
+        "description": "Mapowanie 3D budynków i terenu"
       }
     ]
   },
@@ -175,120 +192,107 @@
     "id": "foto",
     "title": "Foto",
     "icon": "🜳",
-    "sub_icon": "Ⳟ",
-    "description": "DESCRIPTION HOLDER",
+    "description": "Zdjęcia produktowe i fotogrametria",
     "children": [
       {
-        "id": "podstawy_foto",
-        "title": "Podstawy FOTO",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_foto", "title": "1", "url": "URL1" },
-          { "id": "2_foto", "title": "2", "url": "URL1" },
-          { "id": "3_foto", "title": "3", "url": "URL1" },
-          { "id": "genai_foto", "title": "GenAI", "url": "URL3" }
-        ]
+        "id": "foto_przeglad",
+        "title": "Przegląd",
+        "url": "https://najlepszaopcja.com/foto/",
+        "description": "Zdjęcia produktowe i dokumentacyjne"
       },
       {
-        "id": "workflow_i_demo_foto",
-        "title": "Workflow i Demo",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_foto", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_foto", "title": "Demo", "url": "URL5" }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "kontakt",
-    "title": "Kontakt",
-    "icon": "⺋",
-    "description": "DESCRIPTION HOLDER",
-    "children": [
-      {
-        "id": "podstawy_test1",
-        "title": "Podstawy Test 1",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_test1", "title": "1", "url": "URL1" },
-          { "id": "2_test1", "title": "2", "url": "URL1" },
-          { "id": "3_test1", "title": "3", "url": "URL1" },
-          { "id": "genai_test1", "title": "GenAI", "url": "URL3" }
-        ]
-      },
-      {
-        "id": "test1_1",
-        "title": "Test 1.1",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_test1", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_test1", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "foto_fotogrametria",
+        "title": "Fotogrametria",
+        "url": "https://najlepszaopcja.com/foto/fotogametria/",
+        "description": "Modele 3D ze zdjęć"
       }
     ]
   },
   {
     "id": "szkolenia",
     "title": "Szkolenia",
-    "icon": "🜲",
-    "description": "DESCRIPTION HOLDER",
+    "icon": "🝆",
+    "description": "Druk 3D, grafika, drony, AI",
     "children": [
       {
-        "id": "podstawy_test2",
-        "title": "Podstawy Test 2",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_test2", "title": "1", "url": "URL1" },
-          { "id": "2_test2", "title": "2", "url": "URL1" },
-          { "id": "3_test2", "title": "3", "url": "URL1" },
-          { "id": "genai_test2", "title": "GenAI", "url": "URL3" }
-        ]
-      },
-      {
-        "id": "test2_1",
-        "title": "Test 2.1",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_test2", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_test2", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "szkolenia_oferta",
+        "title": "Oferta szkoleń",
+        "url": "https://najlepszaopcja.com/szkolenia/",
+        "description": "Program i ceny szkoleń"
       }
     ]
   },
   {
-    "id": "siemanko",
-    "title": "SIEMANKO",
-    "icon": "🜽",
-    "description": "DESCRIPTION HOLDER",
+    "id": "portfolio",
+    "title": "Portfolio",
+    "icon": "🝔",
+    "description": "Wybrane realizacje",
     "children": [
       {
-        "id": "podstawy_test3",
-        "title": "Podstawy Test 3",
-        "icon": "𐄇",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "1_test3", "title": "1", "url": "URL1" },
-          { "id": "2_test3", "title": "2", "url": "URL1" },
-          { "id": "3_test3", "title": "3", "url": "URL1" },
-          { "id": "genai_test3", "title": "GenAI", "url": "URL3" }
-        ]
+        "id": "portfolio_przeglad",
+        "title": "Portfolio",
+        "url": "https://najlepszaopcja.com/portfolio/",
+        "description": "Wszystkie realizacje"
       },
       {
-        "id": "test3_1",
-        "title": "Test 3.1",
-        "icon": "𐄈",
-        "description": "DESCRIPTION HOLDER",
-        "children": [
-          { "id": "workflow_test3", "title": "Workflow", "url": "URL4" },
-          { "id": "demo_test3", "title": "Demo", "url": "URL5" }
-        ]
+        "id": "portfolio_cv",
+        "title": "Interactive CV",
+        "url": "https://najlepszaopcja.com/portfolio/interactive-cv/"
+      },
+      {
+        "id": "portfolio_krosno",
+        "title": "Krosno Glass",
+        "url": "https://najlepszaopcja.com/portfolio/portfolio-krosno-glass/"
+      },
+      {
+        "id": "portfolio_creo",
+        "title": "CreoConcept",
+        "url": "https://najlepszaopcja.com/portfolio/creoconcept/"
+      },
+      {
+        "id": "portfolio_rcm",
+        "title": "RCM",
+        "url": "https://najlepszaopcja.com/portfolio/rcm/"
+      }
+    ]
+  },
+  {
+    "id": "kontakt",
+    "title": "Kontakt",
+    "icon": "🜶",
+    "description": "Napisz, odpowiadamy zwykle w 24 h",
+    "children": [
+      {
+        "id": "kontakt_strona",
+        "title": "Kontakt",
+        "url": "https://najlepszaopcja.com/kontakt/",
+        "description": "Dane kontaktowe"
+      },
+      {
+        "id": "kontakt_mail",
+        "title": "E-mail",
+        "url": "mailto:kontakt@najlepszaopcja.com",
+        "description": "kontakt@najlepszaopcja.com"
+      }
+    ]
+  },
+  {
+    "id": "hub",
+    "title": "HUB",
+    "icon": "🜛",
+    "description": "O nas i baza wiedzy",
+    "children": [
+      {
+        "id": "hub_o_nas",
+        "title": "O nas",
+        "url": "https://najlepszaopcja.com/hub/o-nas/",
+        "description": "Kim jesteśmy"
+      },
+      {
+        "id": "hub_baza_wiedzy",
+        "title": "Baza wiedzy",
+        "url": "https://najlepszaopcja.com/hub/baza-wiedzy/",
+        "description": "Poradniki i materiały"
       }
     ]
   }
