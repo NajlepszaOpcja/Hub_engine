@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bw_druk_3d",
+    "title": "Druk 3D",
+    "icon": "🝘",
+    "description": "Od pierwszego wydruku po dobór materiału",
+    "children": [
+      {
+        "id": "bw_druk_3d_podstawy",
+        "title": "Podstawy druku 3D",
+        "icon": "𐄇",
+        "description": "Jak działa druk 3D i od czego zacząć",
+        "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-main/"
+      },
+      {
+        "id": "bw_druk_3d_materialy",
+        "title": "Materiały FDM",
+        "icon": "𐄈",
+        "description": "PLA, PETG, ASA, TPU i inne: właściwości i zastosowania",
+        "url": "https://najlepszaopcja.com/hub/baza-wiedzy/baza-wiedzy-druk3d-materialy/"
+      },
+      {
+        "id": "bw_druk_3d_kalkulator",
+        "title": "Kalkulator wyceny",
+        "icon": "🝘",
+        "description": "Wgraj plik STL, OBJ lub 3MF i sprawdź orientacyjny koszt wydruku",
+        "status": "narzędzie",
+        "url": "https://3d.najlepszaopcja.com/kalkulator"
+      }
+    ]
+  },
+  {
+    "id": "bw_modele_3d",
+    "title": "Modele 3D z rzeczywistości",
+    "icon": "🜁",
+    "description": "Jak ze zdjęć i nalotów dronem powstaje model 3D",
+    "children": [
+      {
+        "id": "bw_modele_3d_dron",
+        "title": "3D z drona",
+        "icon": "🜁",
+        "description": "Proces krok po kroku: zdjęcia, przetwarzanie, gotowy model",
+        "url": "https://najlepszaopcja.com/drony/dron-3d/"
+      }
+    ]
+  }
+]
